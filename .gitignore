@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+.env
+invite_df.csv
+not_invited_df.csv
+notes.md
